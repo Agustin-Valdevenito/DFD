@@ -1,0 +1,158 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+C
+1
+0
+9
+mayoredad
+1
+0
+6
+3
+4
+sexo
+1
+0
+4
+masc
+1
+0
+3
+fem
+1
+0
+6
+1
+8
+paciente
+1
+0
+4
+1
+62
+'Ingrese la cantidad de pacientes quie ingresaron al hospital'
+5
+1
+1
+N
+9
+1
+3
+N>C
+6
+1
+8
+paciente
+10
+paciente+1
+4
+1
+64
+'Ingrese la patologia con la que ingresa el paciente ' ,paciente
+4
+1
+86
+'Ingrese 0 para Gripe estacional, 1 para Gripe A, 2 para Neumonia y 3 para bronquitis'
+5
+1
+9
+patologia
+4
+1
+41
+'Ingrese la edad del paciente ', paciente
+5
+1
+4
+edad
+4
+1
+40
+'Ingrese el sexo del paciente ',paciente
+4
+1
+36
+'0 para masculino y 1 para femenino'
+5
+1
+4
+sexo
+7
+0
+1
+49
+edad>58 and patologia=1 or patologia=3 and sexo=0
+13
+6
+1
+9
+mayoredad
+11
+mayoredad+1
+13
+7
+0
+1
+24
+sexo=0 and patologia = 0
+13
+6
+1
+4
+masc
+6
+masc+1
+13
+7
+0
+1
+24
+sexo=1 and patologia = 0
+13
+6
+1
+3
+fem
+7
+fem + 1
+13
+7
+0
+1
+5
+N=C+1
+4
+1
+42
+'Ingrese los datos del siguiente paciente'
+13
+13
+6
+1
+1
+C
+3
+C+1
+11
+4
+1
+111
+'La cantidad de personas de sexo masculino mayores a 58 años que padecen 
+Bronquitis o Gripe A es ' ,mayoredad
+
+4
+1
+86
+'La cantidad de personas de sexo femenino y masculino que padecen Gripe Estacional es'
+4
+1
+87
+masc,' son pacientes masculinos y ',fem,' son pacientes femeninos con gripe estacional'
+1
