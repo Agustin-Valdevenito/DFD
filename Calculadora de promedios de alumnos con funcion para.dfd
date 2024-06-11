@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+C
+1
+1
+1
+A
+1
+0
+1
+B
+1
+0
+4
+1
+62
+'Ingrese la cantidad de alumnos que van al Instituo Educativo'
+5
+1
+8
+cantidad
+9
+1
+11
+cantidad>=c
+6
+1
+1
+C
+3
+C+1
+4
+1
+40
+'Ingrese las 3 notas de cada estudiante'
+4
+1
+24
+'Ingrese la primer nota'
+5
+1
+5
+nota1
+4
+1
+25
+'Ingrese la segunda nota'
+5
+1
+5
+nota2
+4
+1
+24
+'Ingrese la tercer nota'
+5
+1
+5
+nota3
+7
+0
+1
+27
+nota1>nota2 and nota1>nota3
+7
+0
+1
+27
+nota2>nota3 and nota2>nota1
+7
+0
+1
+27
+nota3>nota1 and nota3>nota2
+13
+4
+1
+60
+'La tercer nota ingresada la cual es ', nota1,' es la mayor'
+13
+13
+4
+1
+61
+'La segunda nota ingresada la cual es ', nota2,' es la mayor'
+13
+13
+4
+1
+60
+'La primer nota ingresada la cual es ', nota1,' es la mayor'
+13
+11
+1

@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+C
+1
+1
+1
+A
+1
+0
+1
+B
+1
+0
+4
+1
+48
+'Ingresar dos valores para definir un intervalo'
+5
+1
+1
+A
+5
+1
+1
+B
+4
+1
+43
+'El intervalo cerrado será |', A,',', B,'|'
+4
+1
+66
+'Ingrese la cantidad de numeros que van a pertenecer al intervalo'
+5
+1
+8
+cantidad
+9
+1
+11
+cantidad>=c
+6
+1
+1
+C
+3
+C+1
+5
+1
+1
+v
+7
+0
+1
+11
+A<V and B>V
+4
+1
+27
+'no pertenece al intervalo'
+13
+4
+1
+27
+'si pertenece al intervalo'
+13
+11
+1

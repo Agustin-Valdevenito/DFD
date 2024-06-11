@@ -1,0 +1,121 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese el salario basico'
+5
+1
+7
+Salario
+9
+1
+9
+salario>0
+4
+1
+32
+'¿El empleado tiene antiguedad?'
+4
+1
+31
+'Ingrese 1 para si y 0 para no'
+5
+1
+3
+Ant
+7
+0
+1
+6
+Ant>=1
+4
+1
+45
+'Va a cobrar $', Salario, ' de sueldo bruto '
+6
+3
+10
+Descuento1
+16
+(14*Salario)/100
+10
+Descuento2
+15
+Descuento1+1500
+11
+Sueldofinal
+20
+Salario - Descuento2
+4
+1
+79
+'Se le descontara $', Descuento1, ' de aportes jubilatorios de su sueldo bruto'
+4
+1
+61
+'Se le descontara $1500 de seguro de vida de su sueldo bruto'
+4
+1
+47
+'Va a cobrar $', Sueldofinal, ' de sueldo neto'
+13
+6
+2
+9
+Adicional
+16
+(10*Salario)/100
+11
+Sueldobruto
+19
+Salario + Adicional
+4
+1
+54
+'Cobrara un adicional por antiguedad de $' , Adicional
+4
+1
+49
+'Va a cobrar $', Sueldobruto, ' de sueldo bruto '
+6
+3
+10
+Descuento1
+16
+(14*Salario)/100
+10
+Descuento2
+15
+Descuento1+1500
+11
+Sueldofinal
+24
+Sueldobruto - Descuento2
+4
+1
+79
+'Se le descontara $', Descuento1, ' de aportes jubilatorios de su sueldo bruto'
+4
+1
+61
+'Se le descontara $1500 de seguro de vida de su sueldo bruto'
+4
+1
+47
+'Va a cobrar $', Sueldofinal, ' de sueldo neto'
+13
+4
+1
+27
+'Ingrese el salario basico'
+5
+1
+7
+Salario
+11
+1
