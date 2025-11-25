@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+N
+1
+5
+4
+1
+19
+'Ingrese 5 numeros'
+5
+1
+9
+A,B,C,D,E
+6
+2
+4
+SUMA
+9
+A+B+C+D+E
+4
+PROM
+6
+SUMA/5
+4
+1
+140
+'Ingreso 5 numeros, los cuales son ',  A  , ' ,' , B, ',' ,C, ',' ,D, ',' ,E, ' de los cuales la suma es ', SUMA, ' y el promedio es ', PROM
+1
